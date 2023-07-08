@@ -1,7 +1,11 @@
 # sqlalchemy-challenge
 
-Part 1: Analyze and Explore the Hawaii Climate Data
-Using Python and SQLAlchemy to do a basic climate analysis and data exploration of Hawaii climate database. Specifically, using SQLAlchemy ORM queries, Pandas, and Matplotlib.
+A climate analysis about Honolulu, Hawaii.
 
-Part 2: Design Hawaii Climate App
-Design a Flask API based on the queries.
+Part 1: Analyze and Explore the Climate Data
+
+Python and SQLAlchemy script to do a basic climate analysis and data exploration of a climate database. Specifically, using SQLAlchemy ORM queries, Pandas, and Matplotlib.
+
+Part 2: Design A Climate App
+
+After completing the initial analysis, I designed a Flask API based on the queries that were developed.
